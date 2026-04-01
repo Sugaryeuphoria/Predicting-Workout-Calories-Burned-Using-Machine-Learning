@@ -6,7 +6,7 @@ This project uses machine learning to predict calories burned during workouts. W
 
 **Authors:**
 - Gursahib Singh (TRU ID: T00704197)
-- Pooja Verma
+- Pooja Verma (TRU ID: T00729545)
 
 **Course:** COMP 4980 - Special Topics: Machine Learning  
 **Date:** December 2024
